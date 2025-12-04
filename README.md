@@ -4,7 +4,7 @@ My name is Arman Javan Sekhavat.
 
 I earned my BSc in Mechanical Engineering from K.N. Toosi University of Technology.
 
-I'm currently a MSc Mechatronics Engineering student at the University of Tehran.
+I'm currently a M.Sc. Mechatronics Engineering student at the University of Tehran.
 
 My research interests fall at the intersection of deep learning, robotics, and control.
 
