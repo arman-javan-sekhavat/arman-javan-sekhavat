@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Arman Javan Sekhavat.
+My name is Arman Javan Sekhavat Pishkhani.
  Welcome to my GitHub profile!
 
 I earned my BSc in Mechanical Engineering from K.N. Toosi University of Technology.
