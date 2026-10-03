@@ -8,5 +8,5 @@ I'm currently a MSc Mechatronics Engineering student at University of Tehran.
 
 My research interests fall at the intersection of deep learning, robotics, and control.
 
-## 📫 Contact
+## Contact
 - Telegram: @javan_arman
